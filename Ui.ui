@@ -510,16 +510,16 @@ color : rgb(226,226,226)</string>
     </property>
     <property name="font">
      <font>
-      <family>josephsophia</family>
-      <pointsize>13</pointsize>
-      <weight>50</weight>
+      <family>Segoe UI</family>
+      <pointsize>8</pointsize>
+      <weight>75</weight>
       <italic>false</italic>
-      <bold>false</bold>
+      <bold>true</bold>
       <kerning>true</kerning>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">color : rgb(255,255,255);</string>
+     <string notr="true">color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;jUN3SS&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
