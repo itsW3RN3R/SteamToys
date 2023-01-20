@@ -23,11 +23,11 @@
 ## <img src=".\assets\icon.ico" width="23" height="" title="SteamToys Logo"> Preview 
 
 * This how the app looks like when its starts. Get's all the account that had been logged in to your computer, and from the ComboBox choose which account u want to switch to without Password or SteamGuard this not gonna work if you haven't checked the Remember Password in the Steamlogin form.<br>
-![onlaunch](https://github.com/itsW3RN3R/Steam-Toys/assets/onlaunch.png)
+![onlaunch](https://github.com/itsW3RN3R/Steam-Toys/blob/main/screenshot/onlaunch.png)
 * This the Fee Calculator Tab name explains it all , it calculate your steam market fee depends on the price you entered in TextBox<br>
-![feecalculatortab](https://github.com/itsW3RN3R/Steam-Toys/assets/FeeCalculator.png)
+![feecalculatortab](https://github.com/itsW3RN3R/Steam-Toys/blob/main/screenshot/FeeCalculator.png)
 * And it Displays your cut as you entering digits.<br>
-![YourCut](https://github.com/itsW3RN3R/Steam-Toys/assets/FeeCalculatorUrCut.png)
+![YourCut](https://github.com/itsW3RN3R/Steam-Toys/blob/main/screenshot/FeeCalculatorUrCut.png)
 <br><br>
 
 ## <img src=".\assets\icon.ico" width="23" height="" title="SteamToys Logo"> Credits
