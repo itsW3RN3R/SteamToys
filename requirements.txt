@@ -1,0 +1,4 @@
+psutil==5.9.4
+PyQt5==5.15.7
+PyYAML==6.0
+vdf==3.4
